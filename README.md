@@ -21,6 +21,3 @@ Enter a sentence (like a tweet or product review), and the app returns its senti
 
 ---
 
-
-# sentiment-analysis-huggingface
-# sentiment-analysis-huggingface
